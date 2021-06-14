@@ -1,0 +1,13 @@
+{
+  "name": "Gitfy-Desktop",
+  "version": "1.0.0",
+  "description": "Gitfy as desktop application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Osiris-Team/Gitfy",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  }
+}
